@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/SurveyApplication.DAL
+/SurveyApplication.WebApi
+/SurveyApplication.Services.Tests/obj
+/SurveyApplication.Services
+/SurveyApplication.Models
